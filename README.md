@@ -8,8 +8,9 @@ Mission:Space is a deliberately vulnerable machine designed for penetration test
  
 ### ⇩  Machine Download
  https://mega.nz/file/j1BCCbaD#4P-r3RFURME0kWuKyMiUzkhYDjFugPjizS-7Rjq0j4w
-### Mirror Download
+
 <hr>
+### Mirror Download
  https://drive.google.com/file/d/1owyy5BK2hc0ENylWcR63GXqtFHUwwSBj/view?usp=sharing
 ### ✎  Complete Walkthrough 
 https://medium.com/@karthikparambil9/easy-c80802be1e4f
