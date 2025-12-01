@@ -10,6 +10,6 @@ Mission:Space is a deliberately vulnerable machine designed for penetration test
 ➥ https://mega.nz/file/j1BCCbaD#4P-r3RFURME0kWuKyMiUzkhYDjFugPjizS-7Rjq0j4w
 ### Mirror Download
 ➥ https://drive.google.com/file/d/1owyy5BK2hc0ENylWcR63GXqtFHUwwSBj/view?usp=sharing
-###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ledger.png" alt="Ledger" width="40" height="40" /> Complete Walkthrough 
+###  ✎ Complete Walkthrough 
 https://medium.com/@karthikparambil9/easy-c80802be1e4f
 
