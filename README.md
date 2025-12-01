@@ -13,3 +13,14 @@ Mission:Space is a deliberately vulnerable machine designed for penetration test
 ### ✎  Complete Walkthrough 
 https://medium.com/@karthikparambil9/easy-c80802be1e4f
 
+
+### SHA256 Checksum
+To verify the integrity of the downloaded machine, use the following SHA256 checksum:
+
+```
+ea7ef1a8c914c185ce5b67f59146f1a52abb54d3ef697ca847767aa729f41b90  space.ova
+```
+You can check the checksum on Linux using:
+```
+sha256sum space.ova
+```
