@@ -1,6 +1,8 @@
 # Mission: Space vuln OS
 A custom-built vulnerable virtual machine designed for cybersecurity training
 
+<img src='assets/thumbnail.webp'>
+
 ## Overview
 Mission:Space is a deliberately vulnerable machine designed for penetration testing practice and security education. This machine contains multiple vulnerabilities across different services and applications, providing a realistic environment for security enthusiasts to practice their skills.
 
